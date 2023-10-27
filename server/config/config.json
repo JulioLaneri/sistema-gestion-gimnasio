@@ -1,0 +1,24 @@
+{
+  "development": {
+    "database": "railway",
+    "username": "root",
+    "password": "Z7JAQVy5uJXrQqPVW0SJ",
+    "host": "containers-us-west-158.railway.app",
+    "dialect": "mysql",
+    "port": 6353
+  },
+  "test": {
+    "username": "root",
+    "password": "1234678",
+    "database": "gymdb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
